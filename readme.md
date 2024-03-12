@@ -7,7 +7,7 @@ SkyCHAT is a [Django](https://www.djangoproject.com/) project designed to create
 1. First, clone the repository to your computer:
 
     ```
-    git clone https://github.com/your_username/Django_project.git
+    git clone https://github.com/your_username/SkyCHAT.git
     ```
 
 2. Navigate to the project directory:
